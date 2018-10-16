@@ -5,10 +5,10 @@ Message processing (standalone) application for processing sales notification me
 
 # Assumptions:
 
-•	Messages will come in text format.
+•	Messages will be recieved in text format.
 
 •	The messages will have the name of a product in singluar format
-   		 e.g. “apple at 10p” and “2 sales of apple at 10p each”
+   		 e.g. “#apple at 10p” and “2 sales of #apple at 10p each”
           
 •	Currency in INR (Indian rupee)
 
