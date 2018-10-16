@@ -1,0 +1,60 @@
+apple at 10p
+2 sales of apple at 10p each
+Add 20p apple
+Subtract 10p apple
+Multiply 2p apple
+banana at 20p
+50 sales of banana at 20p each
+Add 20p banana
+Subtract 10p banana
+Multiply 2p banana
+orange at 25p
+10 sales of orange at 25p each
+Add 10p orange
+Subtract 10p orange
+Multiply 2p orange
+pen at 2p
+99 sales of pen at 2p each
+Add 2p pen
+Subtract 1p pen
+Multiply 2p pen
+chair at 1000p
+2 sales of chair at 1000p each
+Add 200p chair
+Subtract 100p chair
+Multiply 2p chair
+keyboard at 500p
+2 sales of keyboard at 500p each
+Add 200p keyboard
+Subtract 100p keyboard
+Multiply 2p keyboard
+chocolate at 10p
+2 sales of chocolate at 10p each
+Add 20p chocolate
+Subtract 10p chocolate
+Multiply 2p chocolate
+colors at 20p
+50 sales of colors at 20p each
+Add 20p colors
+Subtract 10p colors
+Multiply 2p colors
+spinach at 25p
+10 sales of spinach at 25p each
+Add 10p spinach
+Subtract 10p spinach
+Multiply 2p spinach
+pencil at 2p
+99 sales of pencil at 2p each
+Add 2p pencil
+Subtract 1p pencil
+Multiply 2p pencil
+table at 1000p
+2 sales of table at 1000p each
+Add 200p table
+Subtract 100p table
+Multiply 2p table
+bag at 500p
+2 sales of bag at 500p each
+Add 200p bag
+Subtract 100p bag
+Multiply 2p bag
