@@ -1,5 +1,3 @@
-# MessageProcessingApp
-
 # Message Processing Application
 
 
